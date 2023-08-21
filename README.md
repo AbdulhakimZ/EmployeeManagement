@@ -48,9 +48,9 @@
 
 ### API Endpoints
 
-- `GET /api/employees`: Retrieves a list of all employees.
-- `GET /api/employees/{id}`: Fetches details of a specific employee by their ID.
-- `POST /api/employees`: Creates a new employee.
-- `PUT /api/employees/{id}`: Updates an existing employee's information by their ID.
-- `DELETE /api/employees/{id}`: Deletes an employee from the system by their ID.
+- `GET /employees`: Retrieves a list of all employees.
+- `GET /employees/{id}`: Fetches details of a specific employee by their ID.
+- `POST /employees`: Creates a new employee.
+- `PUT /employees/{id}`: Updates an existing employee's information by their ID.
+- `DELETE /employees/{id}`: Deletes an employee from the system by their ID.
 
