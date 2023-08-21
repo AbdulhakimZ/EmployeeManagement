@@ -57,7 +57,7 @@ namespace EmployeeManagement.Repositories
             }
             catch (Exception ex)
             {
-                throw new InvalidOperationException("Failed to update employee."+ex.Message, ex);
+                throw new InvalidOperationException("Failed to update employee.", ex);
             }
         }
 
